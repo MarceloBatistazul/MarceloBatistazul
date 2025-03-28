@@ -1,4 +1,8 @@
- <h1 align="center">
+<div>
+
+  
+
+  <h1 align="center">
 
     👋😉 Oi Tudo bem? Eu sou o 
 
@@ -12,7 +16,7 @@
 
   <p align="center">
 
-    Olá! 👋 , um desenvolvedor fullstack apaixonado por dar vida a ideias através da tecnologia.
+    Olá!v👋, sou um desenvolvedor fullstack apaixonado por dar vida a ideias através da tecnologia. 💻✨
 
   </p>
 
@@ -42,69 +46,37 @@
 
 <div align="center" valign="top"><br>
 
- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-
-
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-
-
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-
-
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
 
   <img align="center" alt="Sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />        
 
-
-
   <img align="center" alt="nodejs" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-
-
 
   <img align="center" alt="git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-
-
   <img  align="center" alt=".net" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-
-
 
   <img align="center" alt="C#" height="35" widtg="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-
-
   <img  align="center" alt="C#" height="35" widtg="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-
 
   <img align="center" alt="C#" height="30" widtg="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 
-
-
   <img  align="center" alt="C#" height="30" widtg="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />        
-
-
 
   <img align="center" alt="C#" height="35" widtg="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-
-
   <img align="center" alt="postgres sql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
-
-
   <img align="center" alt="postgres sql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />        
-
-
 
  <img align="center" alt="postgres sql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
@@ -145,4 +117,3 @@
   <p>Feito com :heart: e JavaScript.</p>
 
 </div>
-
