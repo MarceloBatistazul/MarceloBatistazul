@@ -1,13 +1,12 @@
 <div>
 
-  <h1 align="center">
-    👋😉 Oi Tudo bem? Eu sou o
+  <h2 align="center">
+    🔥 E aí, dev! Aqui é o 
     <a href="https://www.linkedin.com/in/marcelo-batista-561871219/">Marcelo Batista</a>
-    🚀
-  </h1>
+  </h2>
 
   <p align="center">
-    Olá! 👋 Sou Marcelo Batista, um desenvolvedor fullstack apaixonado por dar vida a ideias através da tecnologia. 💻✨
+   🚀 Olá, dev! Sou Marcelo Batista, um desenvolvedor fullstack apaixonado por transformar ideias em código e criar experiências incríveis através da tecnologia! 💻✨
   </p>
 
 </div>
@@ -61,7 +60,5 @@
 
 
 <div align="center">
-
-  <p>Feito com :heart: e JavaScript.</p>
-
+<p align="center">Feito com ❤️, ☕ e muito JavaScript! 🔥</p>
 </div>
