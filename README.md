@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/MarceloBatistazul">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloBatistazul&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="GitHub Stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBatistazul&theme=dracula&hide_border=false&&layout=compact" alt="Top Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloBatistazul&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&cache_seconds=3600" alt="GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBatistazul&theme=dracula&hide_border=false&layout=compact&cache_seconds=3600" alt="Top Languages"/>
   </a>
 </div>
 
