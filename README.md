@@ -1,64 +1,129 @@
-<div>
+<div align="center">
 
-  <h2 align="center">
-    🔥 E aí, dev! Aqui é o 
-    <a href="https://www.linkedin.com/in/marcelo-batista-561871219/">Marcelo Batista</a>
-  </h2>
+<h1>🔥 Marcelo Batista</h1>
+<h3>Full Stack Software Developer</h3>
 
-  <p align="center">
-   🚀 Olá, dev! Sou Marcelo Batista, um desenvolvedor fullstack apaixonado por transformar ideias em código e criar experiências incríveis através da tecnologia! 💻✨
-  </p>
+<p>
+🚀 Construindo aplicações web escaláveis, seguras e orientadas a resultado
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/marcelo-batista-561871219/">LinkedIn</a> •
+<a href="mailto:batistazul37@gmail.com">Email</a> •
+<a href="https://github.com/MarceloBatistazul">GitHub</a>
+</p>
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/MarceloBatistazul">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloBatistazul&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&cache_seconds=3600" alt="GitHub Stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBatistazul&theme=dracula&hide_border=false&layout=compact&cache_seconds=3600" alt="Top Languages"/>
-  </a>
-</div>
+---
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="nodejs" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt=".net" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-</div><br>
+## 👨‍💻 Sobre mim
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/marcelo-batista-561871219/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:batistazul37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
+Sou Desenvolvedor Full Stack com experiência na construção de aplicações web completas, atuando do levantamento de requisitos até a entrega e evolução do sistema.
 
+💡 Trabalho com foco em:
+- Arquitetura de software (DDD, camadas)
+- APIs REST seguras e escaláveis
+- Interfaces modernas com alta performance
+- Código limpo e sustentável
 
+🎯 Meu objetivo é transformar ideias em produtos reais que geram valor.
+
+---
+
+## ⚡ Stack Principal
 
 <div align="center">
 
-
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-  
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
 </div>
 
+---
 
+## 📊 Estatísticas
 
 <div align="center">
-<p align="center">Feito com ❤️, ☕ e muito JavaScript! 🔥</p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarceloBatistazul&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBatistazul&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛒 Joave Store
+E-commerce completo com autenticação JWT, gestão de produtos e pedidos, desenvolvido com React no front-end e C#/.NET no back-end.
+
+**Stack:** React • TypeScript • C# • .NET • MySQL • JWT
+
+---
+
+### 🧾 Diário Ile Verte
+Sistema interno para gestão de tarefas e comunicação, com arquitetura modular baseada em DDD utilizando NestJS.
+
+**Stack:** React • TypeScript • NestJS • PostgreSQL • Prisma • JWT
+
+---
+
+### 🏠 Meu Lar Imobiliária
+Sistema web com área administrativa para gestão de imóveis e leads, incluindo pipeline comercial e autenticação segura.
+
+**Stack:** React • TypeScript • Node.js • Express • MySQL • JWT
+
+---
+
+### 🌐 MB Code Solutions
+Site institucional com foco em apresentação de serviços, projetos e conversão de clientes.
+
+**Stack:** React • TypeScript • Tailwind • Vite
+
+---
+
+## 🧠 Diferenciais
+
+✔ Arquitetura bem definida e organizada  
+✔ Foco em performance e escalabilidade  
+✔ Código limpo e de fácil manutenção  
+✔ Visão de produto e negócio  
+✔ Comunicação clara e objetiva  
+
+---
+
+## 📈 Resultados
+
+🚀 +5 projetos desenvolvidos  
+👥 Sistemas utilizados por usuários reais  
+🔐 APIs com autentação segura (JWT/OAuth)  
+🧩 Experiência com múltiplos domínios de negócio  
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="mailto:batistazul37@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marcelo-batista-561871219/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💻 Engenharia de software com foco em resultado, performance e evolução contínua
+
 </div>
