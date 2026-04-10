@@ -13,13 +13,16 @@
 
 <h2>👨‍💻 Sobre Mim</h2>
 
+
 </div>
 
 ---
 
 ```ts
 const marcelo = {
-  role: "Full Stack Developer",
+  role: "Full Stack Developer (.NET • React • Node.js) | Web Applications & REST APIs
+
+",
 
   code: [
     "TypeScript",
@@ -29,28 +32,58 @@ const marcelo = {
 
   technologies: {
     frontEnd: ["React", "Tailwind", "Vite"],
-    backEnd: ["Node.js", "Express", "NestJS", ".NET"],
+    backEnd: ["Node.js", "NestJS", "Express", ".NET / ASP.NET Core"],
     database: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Prisma", "Docker", "Git", "Vercel"],
+    tools: ["Prisma", "Docker", "Git", "Vercel", "Swagger", "Jest"],
   },
 
-  architecture: [
-    "Clean Architecture",
-    "Domain-Driven Design (DDD)",
-    "SOLID Principles",
+  architecture: {
+    patterns: [
+      "Domain-Driven Design (DDD)",
+      "Clean Architecture",
+      "Arquitetura em Camadas"
+    ],
+    principles: [
+      "SOLID",
+      "Clean Code",
+      "Separation of Concerns"
+    ],
+  },
+
+  expertise: [
+    "Desenvolvimento de APIs REST escaláveis",
+    "Autenticação e autorização com JWT e OAuth2",
+    "Modelagem e integração com bancos de dados relacionais e NoSQL",
+    "Construção de interfaces performáticas e responsivas",
+    "Organização de projetos orientados a domínio"
   ],
 
-  currentFocus: [
-    "Scalable APIs",
-    "Secure authentication (JWT/OAuth)",
-    "Performance & optimization",
-  ],
+  experience: {
+    years: "2+ anos",
+    projects: "5+ projetos entregues",
+    technologies: "14+ tecnologias aplicadas"
+  },
 
   projects: {
-    imobiliaria: "Sistema completo de gestão de imóveis e leads",
-    ecommerce: "Plataforma de vendas com autenticação e pedidos",
-    institucional: "Site focado em conversão de clientes",
+  imobiliaria: {
+    name: "Meu Lar Imobiliária",
+    context: "MB Code Solutions (Freelancer)",
+    stack: ["React", "TypeScript", "Node.js", "Express", "MySQL", "JWT"],
   },
 
-  mindset: "Turning ideas into real products 🚀",
+  plataformaInterna: {
+    name: "Diário Ile Verte",
+    context: "MB Code Solutions (Freelancer)",
+    stack: ["React", "TypeScript", "NestJS", "PostgreSQL", "Prisma", "JWT"],
+  },
+
+  ecommerce: {
+    name: "Joave Store",
+    context: "MB Code Solutions (Freelancer)",
+    stack: ["React", "TypeScript", "C#", ".NET", "MySQL", "JWT"],
+  },
+},
+
+  mindset: "Decisões técnicas orientadas a performance, escalabilidade e impacto no produto".
+  Portfólio: https://marcelobatista-portifolio.vercel.app/#",
 };
