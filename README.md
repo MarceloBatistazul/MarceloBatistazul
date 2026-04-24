@@ -20,7 +20,7 @@
 
 ```ts
 const marcelo = {
-  role: "Full Stack Developer (.NET • React • Node.js) | Web Applications & REST APIs
+  role: "Software Engineer | .NET • React • Node.js | Web Applications & REST APIs
 
 ",
 
