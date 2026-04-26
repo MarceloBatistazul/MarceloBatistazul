@@ -22,15 +22,11 @@
 const marcelo = {
   role: "Software Engineer | .NET • React • Node.js | Web Applications & REST APIs",
 
-  code: [
-    "TypeScript",
-    "JavaScript",
-    "C#",
-  ],
+  languages: ["TypeScript", "JavaScript", "C#"],
 
   technologies: {
-    frontEnd: ["React", "Tailwind", "Vite"],
-    backEnd: ["Node.js", "NestJS", "Express", ".NET / ASP.NET Core"],
+    frontend: ["React", "Tailwind", "Vite"],
+    backend: ["Node.js", "NestJS", "Express", ".NET / ASP.NET Core"],
     database: ["MySQL", "PostgreSQL", "MongoDB"],
     tools: ["Prisma", "Docker", "Git", "Vercel", "Swagger", "Jest"],
   },
@@ -39,49 +35,64 @@ const marcelo = {
     patterns: [
       "Domain-Driven Design (DDD)",
       "Clean Architecture",
-      "Arquitetura em Camadas"
+      "Layered Architecture"
     ],
-    principles: [
-      "SOLID",
-      "Clean Code",
-      "Separation of Concerns"
-    ],
+    principles: ["SOLID", "Clean Code", "Separation of Concerns"],
   },
 
   expertise: [
-    "Desenvolvimento de APIs REST escaláveis",
-    "Autenticação e autorização com JWT e OAuth2",
-    "Modelagem e integração com bancos de dados relacionais e NoSQL",
-    "Construção de interfaces performáticas e responsivas",
-    "Organização de projetos orientados a domínio"
+    "Scalable REST API development",
+    "Authentication and authorization (JWT, OAuth2)",
+    "SQL and NoSQL data modeling",
+    "Performance-oriented React applications",
+    "Domain-driven project organization"
   ],
 
   experience: {
-    years: "2+ anos",
-    projects: "5+ projetos entregues",
-    technologies: "14+ tecnologias aplicadas"
+    years: "2+ years",
+    projects: "5+ delivered projects",
+    technologies: "14+ technologies applied"
   },
 
   projects: {
-  imobiliaria: {
-    name: "Meu Lar Imobiliária",
-    context: "MB Code Solutions (Freelancer)",
-    stack: ["React", "TypeScript", "Node.js", "Express", "MySQL", "JWT"],
+    imobiliaria: {
+      name: "Meu Lar Imobiliária",
+      context: "MB Code Solutions (Freelancer)",
+      description: "Real estate management system with authentication and access control",
+      highlights: [
+        "REST API with JWT authentication",
+        "Full CRUD for property management",
+        "Layered architecture"
+      ],
+      stack: ["React", "TypeScript", "Node.js", "Express", "MySQL"]
+    },
+
+    plataformaInterna: {
+      name: "Diário Ile Verte",
+      context: "MB Code Solutions (Freelancer)",
+      description: "Internal platform for structured information management",
+      highlights: [
+        "Backend with NestJS and Prisma",
+        "DDD-based structure",
+        "PostgreSQL integration"
+      ],
+      stack: ["React", "TypeScript", "NestJS", "PostgreSQL", "Prisma"]
+    },
+
+    ecommerce: {
+      name: "Joave Store",
+      context: "MB Code Solutions (Freelancer)",
+      description: "Fullstack e-commerce platform with business logic implementation",
+      highlights: [
+        "Backend built with .NET",
+        "Business rules implementation",
+        "End-to-end frontend/backend integration"
+      ],
+      stack: ["React", "TypeScript", "C#", ".NET", "MySQL"]
+    }
   },
 
-  plataformaInterna: {
-    name: "Diário Ile Verte",
-    context: "MB Code Solutions (Freelancer)",
-    stack: ["React", "TypeScript", "NestJS", "PostgreSQL", "Prisma", "JWT"],
-  },
+  mindset: "Performance-driven, scalable and product-oriented engineering decisions",
 
-  ecommerce: {
-    name: "Joave Store",
-    context: "MB Code Solutions (Freelancer)",
-    stack: ["React", "TypeScript", "C#", ".NET", "MySQL", "JWT"],
-  },
-},
-
-  mindset: "Decisões técnicas orientadas a performance, escalabilidade e impacto no produto".
-  Portfólio: https://marcelobatista-portifolio.vercel.app/#",
+  portfolio: "https://marcelobatista-portifolio.vercel.app/"
 };
