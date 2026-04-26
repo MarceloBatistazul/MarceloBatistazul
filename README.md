@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4500&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+I+am+Marcelo+%F0%9F%91%8B;Full+Stack+Developer+(.NET+•+React+•+Node.js);Web+Applications+%26+REST+APIs" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4500&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+I+am+Marcelo+%F0%9F%91%8B;Software+Engineer+|.NET+•+React+•+Node.js|;Web+Applications+%26+REST+APIs" 
   />
 </p>
 
