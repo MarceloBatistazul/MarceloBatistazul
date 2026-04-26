@@ -20,9 +20,7 @@
 
 ```ts
 const marcelo = {
-  role: "Software Engineer | .NET • React • Node.js | Web Applications & REST APIs
-
-",
+  role: "Software Engineer | .NET • React • Node.js | Web Applications & REST APIs",
 
   code: [
     "TypeScript",
